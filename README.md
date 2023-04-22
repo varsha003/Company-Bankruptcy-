@@ -34,8 +34,13 @@ Total  6819 rows and 95 columns
 
 Checking if any duplicate values are presented – NO duplicate records
 
+Checking NULL values or Missing values – NO null values 
 
+Checking for imbalance data
 
-![image](https://user-images.githubusercontent.com/75262617/233783367-3afb389d-76d3-4ead-aa78-6da8cbd69fdc.png)
-
+The labelled data of Bankruptcy is plotted and it is not balanced.
+It is highly imbalanced dataset as only 3.2% of total data is of class label 1 (Bankrupt).
+The pie chart describes the Bankruptcy where
+ 0 is No
+ 1 is YES
 
