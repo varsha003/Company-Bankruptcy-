@@ -36,7 +36,6 @@ Checking if any duplicate values are presented – NO duplicate records
 
 
 
-
-![image](https://user-images.githubusercontent.com/75262617/233783330-52b1ce6c-be61-47df-936e-1bb37d7ead08.png)
+![image](https://user-images.githubusercontent.com/75262617/233783367-3afb389d-76d3-4ead-aa78-6da8cbd69fdc.png)
 
 
