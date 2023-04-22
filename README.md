@@ -20,5 +20,23 @@ Turnover, Revenue, Liability, etc.
 
 Target column is Bankrupt with outcome as 0 or 1
 (0 is No, 1 Yes)
-![image](https://user-images.githubusercontent.com/75262617/233783302-b06dceb2-398a-43b4-8f3d-a0cb7bdb7c91.png)
+
+
+2. Load data
+Importing all the libraries like numpy, pandas, seaborn and more..
+Loading the dataset using Pandas.
+
+3. EDA
+Checking the shape of the dataset and information using 
+  shape
+  info()
+Total  6819 rows and 95 columns 
+
+Checking if any duplicate values are presented – NO duplicate records
+
+
+
+
+![image](https://user-images.githubusercontent.com/75262617/233783330-52b1ce6c-be61-47df-936e-1bb37d7ead08.png)
+
 
